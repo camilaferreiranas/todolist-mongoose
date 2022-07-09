@@ -13,4 +13,4 @@
 
 ## Licença
 
-[MIT License](https://github.com/camilaferreiranas/todolist-mongoose/main/LICENSE.md)
+[MIT License](https://github.com/camilaferreiranas/todolist-mongoose/blob/main/LICENSE.md)
